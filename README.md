@@ -1,5 +1,5 @@
 みゃみゅ玉子です。  
-gitpodsのおかげでchromebookで開発をしています。
+[gitpod](https://gitpod.io/)のおかげでchromebookで開発をしています。
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myamyu&layout=compact&locale=ja)
 ![stats](https://github-readme-stats.vercel.app/api?username=myamyu&show_icons=true&locale=ja&hide=contribs)
