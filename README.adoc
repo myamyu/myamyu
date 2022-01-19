@@ -1,7 +1,9 @@
 = Standing Engineerです。みゃみゅ玉子です。
 
-みゃみゅ玉子です。 +
-https://gitpod.io/[gitpod]のおかげでchromebookで開発をしています。
+みゃみゅ玉子（たまご）です。
+
+VB6 -> Java -> .NET(C#, VB.NET) -> Java -> JavaScript -> TypeScript -> Go +
+みたいな感じで仕事をしてきてます。
 
 image::https://github-readme-stats.vercel.app/api/top-langs/?username=myamyu&layout=compact&locale=ja[languages]
 image::https://github-readme-stats.vercel.app/api?username=myamyu&show_icons=true&locale=ja&hide=contribs[stats]
