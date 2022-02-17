@@ -2,7 +2,12 @@
 
 みゃみゅ玉子（たまご）です。
 
-VB6 -> Java -> .NET(C#, VB.NET) -> Java -> JavaScript -> TypeScript -> Go +
+[source,mermaid]
+----
+graph LR;
+VB6 --> Java --> .NET(C#, VB.NET) --> Java --> JavaScript --> TypeScript --> Go --> JavaScript;
+----
+
 みたいな感じで仕事をしてきてます。
 
 image::https://github-readme-stats.vercel.app/api/top-langs/?username=myamyu&layout=compact&locale=ja[languages]
@@ -10,3 +15,4 @@ image::https://github-readme-stats.vercel.app/api?username=myamyu&show_icons=tru
 
 image:https://komarev.com/ghpvc/?username=myamyu[viewers]
 image:https://img.shields.io/twitter/follow/myamyu?label=Twitter&logo=twitter&style=flat[twitter]
+
